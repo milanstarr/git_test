@@ -1,0 +1,3 @@
+Here is some more text
+I am adding more text to this file.
+Okay I was able to do it. vi is the command to open a file and edit it.  
